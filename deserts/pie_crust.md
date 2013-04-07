@@ -13,4 +13,4 @@ Mix flour and salt in large bowl. Cut in Crisco. Add liquid ingredients, combine
 
 Place in plastic bag and refrigerate for minimum 15 minutes.
 
-![recipie card](http://tabletcorry.smugmug.com/Other/Apple-Pie/i-7snC9wL/0/S/20111231-IMG_4762-S.jpg)
+![recipie card](http://tabletcorry.smugmug.com/Other/Github-Recipes/i-6PnWWVZ/0/S/20111231-IMG_4762-S.jpg)
