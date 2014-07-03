@@ -1,7 +1,5 @@
 ## Blended Shake
 
-I completely forgot to write down if these were tablespoons or teaspoons when I put these together. I am assuming they are tablespoons here, but go with your gut until I fix this.
-
 ### Base
 * 1/2 c Ricotta cheese
     * low fat works, for less calories
@@ -10,17 +8,18 @@ I completely forgot to write down if these were tablespoons or teaspoons when I 
 * 1-2 cubes ice
     * Ice size varies, you may need to experiment here
     * Add less, blend, then check
-* 1/2 T Truvia (or any sweetener)
+* 1/2 tsp Truvia (or any sweetener)
     * Skip if using sweetened milk
 * 1/4-3/4 c water
     * Still figuring this one out
+    * Controls how thick the shake is. At 1/4 it is very dense.
 * Pinch of salt
     
 ### "Apple Pie" blend
 * 1/2 c Apple Sauce
-* 1/2 T Cinnamon
+* 1/2 tsp Cinnamon
 * 1/2 Graham cracker
-* 1/4-1/2 T caramel
+* 1/4-1/2 tsp caramel
 
 ### Notes
 * More sugar/sweetener is the most likely need. Depends on Apple sauce sweetness
