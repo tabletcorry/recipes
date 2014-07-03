@@ -1,5 +1,7 @@
 ## Blended Shake
 
+I completely forgot to write down if these were tablespoons or teaspoons when I put these together. I am assuming they are tablespoons here, but go with your gut until I fix this.
+
 ### Base
 * 1/2 c Ricotta cheese
     * low fat works, for less calories
@@ -12,6 +14,7 @@
     * Skip if using sweetened milk
 * 1/4-3/4 c water
     * Still figuring this one out
+* Pinch of salt
     
 ### "Apple Pie" blend
 * 1/2 c Apple Sauce
@@ -23,4 +26,4 @@ Blend all ingredients, except the ice.
 
 Crush the ice, then blend it in.
 
-Serve.
+Taste and adjust, or just serve.
