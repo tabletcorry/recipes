@@ -22,6 +22,10 @@ I completely forgot to write down if these were tablespoons or teaspoons when I 
 * 1/2 Graham cracker
 * 1/4-1/2 T caramel
 
+### Notes
+* More sugar/sweetener is the most likely need. Depends on Apple sauce sweetness
+* Alternate blends (not "Apple Pie") may still need the graham cracker as a thickener
+
 Blend all ingredients, except the ice.
 
 Crush the ice, then blend it in.
