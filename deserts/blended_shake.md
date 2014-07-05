@@ -32,9 +32,12 @@
 * The amounts above produce about 4 fl oz of "flavor" and 8 fl oz of "base"
       * 12 fl oz mix is about 2 servings. It is quite filling.
       * A serving is 200-400 calories, depending on additions. The base is very low calorie.
-* More sugar/sweetener is the most likely need. Depends on Apple sauce sweetness
-Blend all ingredients, except the ice.
+      * A serving also has >7g protein, which is part of why it is filling.
+* More sugar/sweetener is the most likely need. Depends on Apple sauce sweetness, or what primary sweetener you use.
 
-If making a single serving, just blend it all together. You may want to add the ice in last to prevent melting.
+### Instructions
 
-If making ahead of time, hold the graham cracker and ice. Prepare base and blend, then mix and serve.
+If making a single batch, just blend it all together. You may want to add the ice in last to prevent melting.
+
+If making ahead of time, hold the graham cracker and ice from the base. Prepare base and blend seperately, then mix and serve for each serving. See notes for ratios to mix.
+Alternately, just make a bunch of the base. The various flavor blends are very quick to make, and people can experiment with the base on their own.
