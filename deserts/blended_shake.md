@@ -28,6 +28,10 @@
 * 1/4 cup marshmallow creme
 * 1/2 tsp unsweetened cocoa
 
+### Creamsicle (experimental)
+* 1/3-1/4 cup marmalade preserves
+    * May be a bit bitter
+
 ### Notes
 * The amounts above produce about 4 fl oz of "flavor" and 8 fl oz of "base"
       * 12 fl oz mix is about 2 servings. It is quite filling.
