@@ -34,7 +34,8 @@
 
 ### PB&J (experimental)
 * 1/8 c peanut butter
-* 1/4 c jelly
+    * Peanut butter is a powerful flavor, use less than jam
+* > 1/4 c jelly
     * I tried grape
 
 ### Notes
