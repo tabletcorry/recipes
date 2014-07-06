@@ -24,6 +24,10 @@
 ### Banana blend
 * 1 banana, chopped
 
+### Strawberry coconut rum (experimental)
+* 4 medium strawberries, chopped
+* Equal mix of rum and coconut cream mix until 4-4.5 fl oz (with berries)
+
 ### "Smores" blend (experimental)
 * 1/4 cup marshmallow creme
 * 1/2 tsp unsweetened cocoa
@@ -39,6 +43,7 @@
     * I tried grape
 
 ### Notes
+* Experimental means that I have only made the mix once, for one person.
 * The amounts above produce about 4 fl oz of "flavor" and 8 fl oz of "base"
       * 12 fl oz mix is about 2 servings. It is quite filling.
       * A serving is 200-400 calories, depending on additions. The base is very low calorie.
