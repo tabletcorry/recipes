@@ -32,6 +32,11 @@
 * 1/3-1/4 cup marmalade preserves
     * May be a bit bitter
 
+### PB&J (experimental)
+* 1/8 c peanut butter
+* 1/4 c jelly
+    * I tried grape
+
 ### Notes
 * The amounts above produce about 4 fl oz of "flavor" and 8 fl oz of "base"
       * 12 fl oz mix is about 2 servings. It is quite filling.
