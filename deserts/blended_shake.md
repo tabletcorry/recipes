@@ -44,6 +44,7 @@
 
 ### Notes
 * Experimental means that I have only made the mix once, for one person.
+* Stick blenders work really well, but any blender will do.
 * The amounts above produce about 4 fl oz of "flavor" and 8 fl oz of "base"
       * 12 fl oz mix is about 2 servings. It is quite filling.
       * A serving is 200-400 calories, depending on additions. The base is very low calorie.
