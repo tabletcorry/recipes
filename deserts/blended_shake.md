@@ -57,3 +57,10 @@ If making a single batch, just blend it all together. You may want to add the ic
 
 If making ahead of time, hold the graham cracker and ice from the base. Prepare base and blend seperately, then mix and serve for each serving. See notes for ratios to mix.
 Alternately, just make a bunch of the base. The various flavor blends are very quick to make, and people can experiment with the base on their own.
+
+### Base 2 (In Progress)
+2 Tbl Ricotta
+4 oz almond milk
+1/8 tsp sweetener
+<1/4 tsp xantham
+More ice
